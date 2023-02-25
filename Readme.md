@@ -24,7 +24,6 @@ Now you have to clone this repository to local machine.Go to the forked reposito
 ## Step 6:
    open the vs terminal
 
-   git init : to initialise the repository
    git add . : adding all the changes to the stage
    git commit -m "your commit mssg" : commiting all the changes
 
