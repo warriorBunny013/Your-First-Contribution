@@ -19,7 +19,7 @@ Now you have to clone this repository to local machine.Go to the forked reposito
  [![Setup repo on vs code](https://i.postimg.cc/7L19mqQW/Screenshot-9.png)](https://postimg.cc/GB2vpnRF)
 
  ## Step 5:
-   make changes in the index.html file or if you like add your css styles
+   make changes in the index.html file and/or if you like to add your css styles.
 
 ## Step 6:
    open the vs terminal
@@ -29,6 +29,9 @@ Now you have to clone this repository to local machine.Go to the forked reposito
    - git switch -c your-new-branch-name : Now create a branch using the git switch command
    - git push -u origin your-branch-name : push all the commited changes
    - open github and send a pull request from your forked repo!
+   
+
+## Congrats on your first contribution 🎉
 
 
 
