@@ -25,11 +25,9 @@ Now you have to clone this repository to local machine.Go to the forked reposito
    open the vs terminal
 
    git init : to initialise the repository
-   git switch -c your-new-branch-name : create a new branch
    git add . : adding all the changes to the stage
    git commit -m "your commit mssg" : commiting all the changes
-   git push -u origin your-branch-name : push all the commited changes to the repo
-   
+
 
    
 
