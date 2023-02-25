@@ -26,8 +26,9 @@ Now you have to clone this repository to local machine.Go to the forked reposito
 
    - git add . : adding all the changes to the stage
    - git commit -m "your commit mssg" : commiting all the changes 
-   - sync changes
-   - open github and send pull request from your previously forked repository
+   - git switch -c your-new-branch-name : Now create a branch using the git switch command
+   - git push -u origin your-branch-name : push all the commited changes
+   - open github and send a pull request from your forked repo!
 
 
 
