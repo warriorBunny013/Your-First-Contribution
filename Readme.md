@@ -31,7 +31,7 @@ Now you have to clone this repository to local machine.Go to the forked reposito
    - open github and send a pull request from your forked repo!
    
 
-## Congrats on your first contribution 🎉
+<p> Congrats on your first contribution 🎉</p>
 
 
 
