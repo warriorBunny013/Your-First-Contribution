@@ -3,7 +3,7 @@
 ## Step 1:
 
 Set up vs code with your github account 
-  - watch this: 
+  - watch this: https://www.youtube.com/watch?v=d2xEaQtEhQQ
 ## Step 2:
 
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
